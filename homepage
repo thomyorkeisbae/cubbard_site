@@ -18,6 +18,8 @@ h1 {
 }
 p {font-family: 'Crimson Text', serif;
 }
+p {text-align: center;
+}
 img {
     opacity: 0.1; /* Change this to .5 for 50% opacity */
     -webkit-transition: .5s;
@@ -29,6 +31,9 @@ img {
 img:hover {
     opacity: 1;
 }
+
+img {display: center;
+}
 </style>
 </head>
 <body>
@@ -38,10 +43,10 @@ img:hover {
 <h1>THE DRINKS CUBBARD </h1>
 <h1>  ━━━━━ </h1>
 </br>
-<a href="http://tinypic.com?ref=2wognwx" target="_blank"><img src="http://i67.tinypic.com/2wognwx.jpg" border="0" alt="Image and video hosting by TinyPic"width="250" height="250"></a>
-<a href="http://tinypic.com?ref=27zdxeb" target="_blank"><img src="http://i67.tinypic.com/27zdxeb.jpg" border="0" alt="Image and video hosting by TinyPic" "width="250" height="250"></a>
-<a href="http://tinypic.com?ref=1zg6j5w" target="_blank"><img src="http://i68.tinypic.com/1zg6j5w.jpg" border="0" alt="Image and video hosting by TinyPic" "width="250" height="250"></a>
-<a href="http://tinypic.com?ref=1z6fkud" target="_blank"><img src="http://i63.tinypic.com/1z6fkud.jpg" border="0" alt="Image and video hosting by TinyPic" "width="250" height="250"></a>
+<a href="http://tinypic.com?ref=2wognwx" target="_blank"><img src="http://i67.tinypic.com/2wognwx.jpg" border="0" alt="Image and video hosting by TinyPic"width="300" height="300"></a>
+<a href="http://tinypic.com?ref=27zdxeb" target="_blank"><img src="http://i67.tinypic.com/27zdxeb.jpg" border="0" alt="Image and video hosting by TinyPic" "width="300" height="300"></a>
+<a href="http://tinypic.com?ref=1zg6j5w" target="_blank"><img src="http://i68.tinypic.com/1zg6j5w.jpg" border="0" alt="Image and video hosting by TinyPic" "width="300" height="300"></a>
+<a href="http://tinypic.com?ref=1z6fkud" target="_blank"><img src="http://i63.tinypic.com/1z6fkud.jpg" border="0" alt="Image and video hosting by TinyPic" "width="300" height="300"></a>
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
 <p> the number one website for cocktails </p>
