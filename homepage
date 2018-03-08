@@ -16,7 +16,7 @@ h1 {
     margin-right: auto;
     width: 50%;
 }
-p {font-family: 'Crimson Text', serif;
+p {font-family: 'Unica One', serif;
 }
 p {text-align: center;
 }
@@ -46,7 +46,6 @@ img:hover {
 <a href="http://tinypic.com?ref=1zg6j5w" target="_blank"><img src="http://i68.tinypic.com/1zg6j5w.jpg" border="0" alt="Image and video hosting by TinyPic" "width="300" height="300"></a>
 <a href="http://tinypic.com?ref=1z6fkud" target="_blank"><img src="http://i63.tinypic.com/1z6fkud.jpg" border="0" alt="Image and video hosting by TinyPic" "width="300" height="300"></a>
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
 <p> the number two website for cocktails </p>
 </body>
   </html>
