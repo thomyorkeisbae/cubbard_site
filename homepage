@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<head>
 <style>
 h1 {
     text-align: center;
@@ -7,6 +8,7 @@ h1 {
 h1 {
     font-family: 'Unica One', cursive;
     centre;
+    font-size: 100px
 }
 .center {
     display: block;
@@ -16,18 +18,32 @@ h1 {
 }
 p {font-family: 'Crimson Text', serif;
 }
+img {
+    opacity: 0.1; /* Change this to .5 for 50% opacity */
+    -webkit-transition: .5s;
+       -moz-transition: .5s;
+        -ms-transition: .5s;
+         -o-transition: .5s;
+            transition: .5s;
+}
+img:hover {
+    opacity: 1;
+}
 </style>
-<head>
 </head>
 <body>
 
 <br>
-<a href="http://tinypic.com?ref=28p7hl" target="_blank"><img src="http://i68.tinypic.com/28p7hl.jpg" border="0" alt="line" class="center"></a>
-<h1> THE DRINKS CUBBARD</h1>
-<a href="http://tinypic.com?ref=28p7hl" target="_blank"><img src="http://i68.tinypic.com/28p7hl.jpg" border="0" alt="line" class="center"></a>
+<h1> ━━━━━ </h1>
+<h1>THE DRINKS CUBBARD </h1>
+<h1>  ━━━━━ </h1>
 </br>
-  <a href="http://tinypic.com?ref=2cyfgr8" target="_blank"><img src="http://i68.tinypic.com/2cyfgr8.jpg" border="0" alt="Image and video hosting by TinyPic"></a><a href="http://tinypic.com?ref=2cyfgr8" target="_blank"><img src="http://i68.tinypic.com/2cyfgr8.jpg" border="0" alt="Image and video hosting by TinyPic"></a><a href="http://tinypic.com?ref=2cyfgr8" target="_blank"><img src="http://i68.tinypic.com/2cyfgr8.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=2wognwx" target="_blank"><img src="http://i67.tinypic.com/2wognwx.jpg" border="0" alt="Image and video hosting by TinyPic"width="250" height="250"></a>
+<a href="http://tinypic.com?ref=27zdxeb" target="_blank"><img src="http://i67.tinypic.com/27zdxeb.jpg" border="0" alt="Image and video hosting by TinyPic" "width="250" height="250"></a>
+<a href="http://tinypic.com?ref=1zg6j5w" target="_blank"><img src="http://i68.tinypic.com/1zg6j5w.jpg" border="0" alt="Image and video hosting by TinyPic" "width="250" height="250"></a>
+<a href="http://tinypic.com?ref=1z6fkud" target="_blank"><img src="http://i63.tinypic.com/1z6fkud.jpg" border="0" alt="Image and video hosting by TinyPic" "width="250" height="250"></a>
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
-<p> the number one website for cocktails </p>
 <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+<p> the number one website for cocktails </p>
+</body>
   </html>
