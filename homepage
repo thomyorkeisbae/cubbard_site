@@ -32,8 +32,6 @@ img:hover {
     opacity: 1;
 }
 
-img {display: center;
-}
 </style>
 </head>
 <body>
@@ -49,6 +47,6 @@ img {display: center;
 <a href="http://tinypic.com?ref=1z6fkud" target="_blank"><img src="http://i63.tinypic.com/1z6fkud.jpg" border="0" alt="Image and video hosting by TinyPic" "width="300" height="300"></a>
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
-<p> the number one website for cocktails </p>
+<p> the number two website for cocktails </p>
 </body>
   </html>
