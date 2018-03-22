@@ -8,9 +8,9 @@
   padding: 20px;
   font-size: 30px;
   width: 50px;
-  text-align: centre;
+  text-align: center;
   text-decoration: none;
-  margin: 100px 100px;
+  margin: 10px 10px;
 }
 
 .fa:hover {
@@ -29,10 +29,6 @@
   color: black;
 }
 
-html {
-        /* Size of largest container or bigger */
-        min-width: 800px;
-    }
 h1 {
     text-align: center;
 }
@@ -45,7 +41,7 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 30%;
 }
 h2 {
 font-family: 'Unica One', cursive;
@@ -114,10 +110,12 @@ p {text-align: center;}
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
+<div class=center>
 <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-instagram"></a>
 <p> the number two website for cocktails </p>
+</div>
 
 </body>
   </html>
