@@ -62,29 +62,6 @@ p {font-family: 'Unica One', serif;
 }
 p {text-align: center;}
 
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-th {
-    border: 0px solid ;
-    text-align: centre;
-    padding: 8px;
-}
-
-td
-{
-    border: 0px solid ;
-    text-align: centre;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: ;
-}
-
 </style>
 </head>
 <body>
@@ -95,38 +72,19 @@ tr:nth-child(even) {
 <h1>  ━━━━━ </h1>
 </br>
 
-<h2>Recipes</h2>
-
-<head>
-    <title>Recipes</title>
-</head>
-<body>
-
-    <table align="center">
-
-    <center>
-        <tr>
-
-        </tr>
-        <tr>
-            <th>For the gram</th>
-            <th>Cost</th>
-            <th>name</th>
-        </tr>
-
-
-        </tr>
-        <tr>
-            <td><td><a href="rhubarb and custard">
-<img border="0" alt="rhubarb and custard coktail" src="rhubarb vodka.png" width="100" height="100">
-</a></a></td></td>
-            <td>££</td>
-            <td border=3 height=100 width=100>Rhubarb and Custard</td>
-        </tr><tr>
-            <td><td><img src="H.gif" alt="" border=3 height=100 width=100></img></td></td>
-    </table>
+<h2>Rhubard and Custard</h2>
+<img src="rhubarb vodka.png" height=200 width=200 align= "middle">
+<h3> One of Jessica's favourites, this cocktail is sweet and punchy. </h3>
+<h2> Ingredients</h2>
+<h3> 50ml rhubarb vodka </h3>
+<h3> 50ml apple juice </h3>
+<h3> 50ml lemonade </h3>
+<h3> simples! </h3>
+<h2> Instructions </h2>
+<h3> Measure 50ml of apple juice in a jug, then add 50ml of lemonade and 50ml rhubarb vodka to the same jug until you have 150ml of liquid.</h3>
+<h3> Add ice to a medium-sized glass and pour the contents of the jug over </h3>
+<h3> Enjoy! Try not to use a straw to save the turtles and other various marine life...</h3>
 </body>
-*etc etc... insert name of image file after img src*
 <html>
 
 </body>
