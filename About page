@@ -46,7 +46,7 @@ h1 {
 h2 {
 font-family: 'Unica One', cursive;
 centre;
-font-size: 30px;
+font-size: 27px;
 bold;
     text-align: center;
 }
@@ -75,7 +75,7 @@ p {text-align: center;}
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .20em; /* Adjust as needed */
   animation:
-    typing 5s steps(100, end),
+    typing 2.5s steps(200, end),
     blink-caret .5s step-end infinite;
 }
 
@@ -88,7 +88,7 @@ p {text-align: center;}
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: black }
+  50% { border-color: transparent}
 }
 
 </style>
@@ -102,20 +102,26 @@ p {text-align: center;}
 </br>
 
 <h2>About us</h2>
+<link href= "my face">
 
 <div class="typewriter">
-<h3> We are Izzi and Jess and yes, we can spell 'cupboard'. The name of our website comes from a mashup of our full names in case you were wondering. When asked what our website would be about, we were really clueless. We just knew we wanted it to look clean, simple and elegant. Reflecting this commitment to simplicity, we have dedicated this website to 'unfussy' cocktail recipes, knowledge and local tips. We hope you enjoy our website as much as we did building it, or should I say 'mixing it'.  </h3>
+<h3> We are Izzi and Jess and yes, we can spell 'cupboard'.
+  <h3> The name of our website comes from a mashup of our full names in case you were wondering.</h3>
+  <h3> When asked what our website would be about, we were really clueless. </h3>
+  <h3> We just knew we wanted it to look clean, simple and elegant. </h3>
+  <h3> Reflecting this commitment, we have dedicated this website to 'unfussy' cocktail recipes, knowledge, and local tips. </h3>
+  <h3> We hope you enjoy our website as much as we did building it, or should I say 'mixing it'. </h3>
 </div>
 
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
 <div class=center>
-<a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
-<a href="#" class="fa fa-instagram"></a>
+<a href="social default page 'sorry'" class="fa fa-facebook"></a>
+<a href="social default page 'sorry'" class="fa fa-twitter"></a>
+<a href="social default page 'sorry'" class="fa fa-instagram"></a>
 <p> the number two website for cocktails </p>
-<p2> drink responsibly </p2>
+<p> drink responsibly </p>
 </div>
 
 
