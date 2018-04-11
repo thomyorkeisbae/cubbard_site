@@ -61,58 +61,18 @@ color: #4d4d33;
 p {font-family: 'Unica One', serif;
 }
 p {text-align: center;}
-
-
-
-/* DEMO-SPECIFIC STYLES */
-.typewriter h3 {
-  color: #4d4d33;
-  max-width: 100%
-  font-family: nunito;
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .20em; /* Adjust as needed */
-  animation:
-    typing 2.5s steps(200, end),
-    blink-caret .5s step-end infinite;
-}
-
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: transparent}
-}
-
 </style>
 </head>
 <body>
 
 <br>
 <h1> ━━━━━ </h1>
-<h1>THE DRINKS CUBBARD </h1>
+<h1> <a href="homepage">THE DRINKS CUBBARD</a> </h1>
 <h1>  ━━━━━ </h1>
 </br>
 
-<h2>About us</h2>
-<img src="izzi's face.png" alt="A picture of Izzi"; align="middle"; style="width:300px;height:300px">
-<div class="typewriter">
-<h3> We are Izzi and Jess and yes, we can spell 'cupboard'.
-  <h3> The name of our website comes from a mashup of our full names in case you were wondering.</h3>
-  <h3> When asked what our website would be about, we were really clueless. </h3>
-  <h3> We just knew we wanted it to look clean, simple and elegant. </h3>
-  <h3> Reflecting this commitment, we have dedicated this website to 'unfussy' cocktail recipes, knowledge, and local tips. </h3>
-  <h3> We hope you enjoy our website as much as we did building it, or should I say 'mixing it'. </h3>
-</div>
-<img src="my face.png" alt="A picture of Jessica"img; centre; style="width:300px;height:300px">
-
+<h2>Happy Hour</h2>
+<h3> We're sorry. This page isn't very 'happy' right now. Come back soon for Brighton's best happy hours... </h3>
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
