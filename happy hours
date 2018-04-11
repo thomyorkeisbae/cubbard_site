@@ -97,7 +97,7 @@ p {text-align: center;}
 
 <br>
 <h1> ━━━━━ </h1>
-<h1> <a href="homepage">THE DRINKS CUBBARD</a> </h1>
+<h1>THE DRINKS CUBBARD </h1>
 <h1>  ━━━━━ </h1>
 </br>
 
@@ -111,7 +111,7 @@ p {text-align: center;}
   <h3> Reflecting this commitment, we have dedicated this website to 'unfussy' cocktail recipes, knowledge, and local tips. </h3>
   <h3> We hope you enjoy our website as much as we did building it, or should I say 'mixing it'. </h3>
 </div>
-<img src="my face.png" alt="A picture of Jessica"img align="middle"; style="width:300px;height:300px">
+<img src="my face.png" alt="A picture of Jessica"img; centre; style="width:300px;height:300px">
 
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
