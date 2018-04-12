@@ -41,7 +41,7 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 30%;
 }
 h2 {
 font-family: 'Unica One', cursive;
@@ -72,28 +72,23 @@ p {text-align: center;}
 <h1>  ━━━━━ </h1>
 </br>
 
-<h2>Recipes</h2>
+<h2>Gin Fizz </h2>
+<img src="Gin fizz.jpg" height=200 width=200 align= "middle">
+<h3> Perfect for summer BBQs. </h3>
+<h2> Ingredients</h2>
+<h3> 50 ml of Gin </h3>
+<h3> Dash of lemon juice </h3>
+<h3> 0.5 tsp sugar </h3>
+<h3> 80ml of soda water </h3>
+<h3> Mint to garnish  </h3>
+<h2> Instructions </h2>
+<h3> Mix the gin, juice and sugar together, with ice, either in a big mixing device (bowl), or if you're fancy, use a cocktail shaker. </h3>
 
-<head>
-    <title>Recipes</title>
-</head>
-<body>
-  <a href="rhubarb and custard">
-  <img border="0" alt="rhubarb and custard cocktail" img src="rhubarb vodka.png" width="100" height="400" class= center >
-  <h3> Rhubarb Vodka </h3>
-
-    <a href="Margarita">
-    <img border="0" alt="Margarita" img src="Margarita.jpg" width="100" height="400" class= center >
-    <h3> Margarita </h3>
-
-    <a href="Mojito">
-    <img border="0" alt="Mojito" img src="Mojito.jpg" width="250" height="300" class= center >
-    <h3> Mojito </h3>
-
-    <a href="Gin Fizz">
-    <img border="0" alt="Gin Fizz" img src="Gin Fizz.jpg" width="250" height="300" class= center >
-    <h3> Gin Fizz </h3>
-
+<h3> Strain into a glass with ice. </h3>
+<h3> Top off with soda water and garnish with mint and lemon. </h3>
+<h3> Enjoy! Try not to use a straw to save the turtles and other various marine life...</h3>
+</body>
+<html>
 
 </body>
 </html>
