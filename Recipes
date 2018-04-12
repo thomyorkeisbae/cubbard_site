@@ -68,7 +68,7 @@ p {text-align: center;}
 
 <br>
 <h1> ━━━━━ </h1>
-<h1> <a href="homepage">THE DRINKS CUBBARD</a> </h1>
+<h1> <a href="index.html">THE DRINKS CUBBARD</a> </h1>
 <h1>  ━━━━━ </h1>
 </br>
 
@@ -78,19 +78,19 @@ p {text-align: center;}
     <title>Recipes</title>
 </head>
 <body>
-  <a href="rhubarb and custard">
+  <a href="rhubarb and custard.html">
   <img border="0" alt="rhubarb and custard cocktail" img src="rhubarb vodka.png" width="100" height="400" class= center >
   <h3> Rhubarb Vodka </h3>
 
-    <a href="Margarita">
+    <a href="Margarita.html">
     <img border="0" alt="Margarita" img src="Margarita.jpg" width="100" height="400" class= center >
     <h3> Margarita </h3>
 
-    <a href="Mojito">
+    <a href="Mojito.html">
     <img border="0" alt="Mojito" img src="Mojito.jpg" width="250" height="300" class= center >
     <h3> Mojito </h3>
 
-    <a href="Gin Fizz">
+    <a href="Gin Fizz.html">
     <img border="0" alt="Gin Fizz" img src="Gin Fizz.jpg" width="250" height="300" class= center >
     <h3> Gin Fizz </h3>
 
@@ -102,9 +102,9 @@ p {text-align: center;}
 <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
 <div class=center>
-<a href="social default page 'sorry'" class="fa fa-facebook"></a>
-<a href="social default page 'sorry'" class="fa fa-twitter"></a>
-<a href="social default page 'sorry'" class="fa fa-instagram"></a>
+<a href="social default page 'sorry'.html" class="fa fa-facebook"></a>
+<a href="social default page 'sorry'.html" class="fa fa-twitter"></a>
+<a href="social default page 'sorry'.html" class="fa fa-instagram"></a>
 <p> the number two website for cocktails </p>
 <p> drink responsibly </p>
 </div>
