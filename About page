@@ -101,7 +101,7 @@ p {text-align: center;}
 </br>
 
 <h2>About us</h2>
-<img src="faces.png" alt="A picture of us, Izzi and Jess"; style="width:300px;height:300px" class="center">
+<img src="faces.png" alt="A picture of us, Izzi and Jess"; style="width:200px;height:150px" class="center">
 <div class="typewriter">
 <h3> We are Izzi and Jess and yes, we can spell 'cupboard'.
   <h3> The name of our website comes from a mashup of our full names in case you were wondering.</h3>
