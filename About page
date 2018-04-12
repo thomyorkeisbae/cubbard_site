@@ -41,7 +41,7 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 60%;
 }
 h2 {
 font-family: 'Unica One', cursive;
@@ -61,9 +61,6 @@ color: #4d4d33;
 p {font-family: 'Unica One', serif;
 }
 p {text-align: center;}
-
-img {center}
-
 
 
 /* DEMO-SPECIFIC STYLES */
@@ -104,7 +101,7 @@ img {center}
 </br>
 
 <h2>About us</h2>
-<img src="faces.png" alt="A picture of Izzi"; align="middle"; style="width:300px;height:300px" class="center">
+<img src="faces.png" alt="A picture of us, Izzi and Jess"; style="width:300px;height:300px" class="center">
 <div class="typewriter">
 <h3> We are Izzi and Jess and yes, we can spell 'cupboard'.
   <h3> The name of our website comes from a mashup of our full names in case you were wondering.</h3>
