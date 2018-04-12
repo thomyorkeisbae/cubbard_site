@@ -11,10 +11,9 @@ h1 {
     font-size: 50px
 }
 .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+  display: inline-block;
+    margin-left: 40%;
+    margin--right: 50%;
 }
 p {font-family: 'Unica One', serif;
 }
@@ -31,6 +30,7 @@ img {
 img:hover {
     opacity: 1;
 }
+
 
 </style>
 </head>
