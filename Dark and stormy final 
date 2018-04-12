@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 10px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  color: black;
+}
+
+.fa-twitter {
+  color: black;
+}
+
+.fa-instagram {
+  color: black;
+}
+
+h1 {
+    text-align: center;
+}
+h1 {
+    font-family: 'Unica One', cursive;
+    centre;
+    font-size: 15px
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+h2 {
+font-family: 'Unica One', cursive;
+centre;
+font-size: 27px;
+bold;
+    text-align: center;
+}
+
+h3 {font-family: 'nunito', sans-serif;
+centre;
+font-size: 18px;
+color: #4d4d33;
+    text-align: center;}
+
+
+p {font-family: 'Unica One', serif;
+}
+p {text-align: center;}
+
+</style>
+</head>
+<body>
+
+<br>
+<h1> ━━━━━ </h1>
+<h1> <a href="homepage">THE DRINKS CUBBARD</a> </h1>
+<h1>  ━━━━━ </h1>
+</br>
+
+<h2>Dark and Stormy</h2>
+<img src="dark and stormy.jpeg" height=200 width=200 align= "middle">
+<h3> Izzi's all time favourite cocktail. Like Ever. </h3>
+<h2> Ingredients</h2>
+<h3> 50 ml of dark rum </h3>
+<h3> 80 ml of ginger beer </h3>
+<h3> Dash of lime juice </h3>
+<h3> Slice of lime to garnish </h3>
+
+<h2> Instructions </h2>
+<h3> Now this one is super tricky </h3>
+
+<h3> Combine all the ingredients in a tall glass, over ice. </h3>
+<h3> Give it a little stir and stick a lime wedge on the side. </h3>
+<h3> Enjoy! Try not to use a straw to save the turtles and other various marine life...</h3>
+</body>
+<html>
+
+</body>
+</html>
+<link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+<div class=center>
+<a href="social default page 'sorry'" class="fa fa-facebook"></a>
+<a href="social default page 'sorry'" class="fa fa-twitter"></a>
+<a href="social default page 'sorry'" class="fa fa-instagram"></a>
+<p> the number two website for cocktails </p>
+<p> drink responsibly </p>
+</div>
+
+
+
+</body>
+  </html>
