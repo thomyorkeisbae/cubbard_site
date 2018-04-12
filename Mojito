@@ -73,7 +73,7 @@ p {text-align: center;}
 </br>
 
 <h2>Mojito</h2>
-<img src="Mojito.jpg" height=400 width=100 align= "middle">
+<img src="Mojito.jpg" height=200 width=120 class= "center">
 <h3> Everyone should know how to make a Mojito. </h3>
 <h2> Ingredients</h2>
 <h3> Juice of one Lime </h3>
@@ -82,7 +82,8 @@ p {text-align: center;}
 <h3> 60ml of white rum </h3>
 <h3> Soda water to taste  </h3>
 <h2> Instructions </h2>
-<h3>Crush the lime juice, sugar and mint leaves in a small jug. You can use the end of a rolling pin or a muddler if you’re fancy. Pour this into a tall glass and add a handful of ice. </h3>
+<h3>Crush the lime juice, sugar and mint leaves in a small jug. You can use the end of a rolling pin or a muddler if you’re fancy. </h3> 
+  <h3> Pour this into a tall glass and add a handful of ice. </h3>
 
 <h3>Pour over the rum, stir with a spoon and top up with soda water. Garnish with mint. </h3>
 <h3> Enjoy! Try not to use a straw to save the turtles and other various marine life...</h3>
