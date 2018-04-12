@@ -41,7 +41,7 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 40%;
 }
 h2 {
 font-family: 'Unica One', cursive;
@@ -61,6 +61,8 @@ color: #4d4d33;
 p {font-family: 'Unica One', serif;
 }
 p {text-align: center;}
+
+img {center}
 
 
 
@@ -102,7 +104,7 @@ p {text-align: center;}
 </br>
 
 <h2>About us</h2>
-<img src="faces.png" alt="A picture of Izzi"; align="middle"; style="width:300px;height:300px">
+<img src="faces.png" alt="A picture of Izzi"; align="middle"; style="width:300px;height:300px" class="center">
 <div class="typewriter">
 <h3> We are Izzi and Jess and yes, we can spell 'cupboard'.
   <h3> The name of our website comes from a mashup of our full names in case you were wondering.</h3>
@@ -111,7 +113,6 @@ p {text-align: center;}
   <h3> Reflecting this commitment, we have dedicated this website to 'unfussy' cocktail recipes, knowledge, and local tips. </h3>
   <h3> We hope you enjoy our website as much as we did building it, or should I say 'mixing it'. </h3>
 </div>
-<img src="my face.png" alt="A picture of Jessica"img align="middle"; style="width:300px;height:300px">
 
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
