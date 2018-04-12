@@ -5,12 +5,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-  padding: 20px;
+  padding: 15px;
   font-size: 30px;
   width: 50px;
   text-align: center;
   text-decoration: none;
-  margin: 10px 10px;
+  margin: 42px 42px;
 }
 
 .fa:hover {
@@ -19,6 +19,7 @@
 
 .fa-facebook {
   color: black;
+
 }
 
 .fa-twitter {
@@ -41,7 +42,7 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 50%;
 }
 h2 {
 font-family: 'Unica One', cursive;
@@ -101,33 +102,9 @@ tr:nth-child(even) {
     <title>Recipes</title>
 </head>
 <body>
-
-    <table align="center">
-
-    <center>
-        <tr>
-
-        </tr>
-        <tr>
-            <th>For the gram</th>
-            <th>Cost</th>
-            <th>name</th>
-        </tr>
-
-
-        </tr>
-        <tr>
-            <td><td><a href="rhubarb and custard">
-<img border="0" alt="rhubarb and custard coktail" src="rhubarb vodka.png" width="100" height="100">
-</a></a></td></td>
-            <td>££</td>
-            <td border=3 height=100 width=100>Rhubarb and Custard</td>
-        </tr><tr>
-            <td><td><img src="H.gif" alt="" border=3 height=100 width=100></img></td></td>
-    </table>
-</body>
-*etc etc... insert name of image file after img src*
-<html>
+  <a href="rhubarb and custard">
+  <img border="0" alt="rhubarb and custard cocktail" img src="rhubarb vodka.png" width="300" height="300" class= center >
+  <h3> Rhubarb Vodka </h3
 
 </body>
 </html>
