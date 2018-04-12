@@ -20,7 +20,7 @@ p {font-family: 'Unica One', serif;
 p {text-align: center;
 }
 img {
-    opacity: 0.1; /* Change this to .5 for 50% opacity */
+    opacity: 1; /* Change this to .5 for 50% opacity */
     -webkit-transition: .5s;
        -moz-transition: .5s;
         -ms-transition: .5s;
@@ -28,7 +28,7 @@ img {
             transition: .5s;
 }
 img:hover {
-    opacity: 1;
+    opacity: 0.5;
 }
 
 
