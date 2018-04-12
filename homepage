@@ -1,24 +1,24 @@
 <!DOCTYPE html>
-<html>
-<head>
-<style>
+  <html>
+    <head>
+        <style>
 h1 {
     text-align: center;
-}
-h1 {
-    font-family: 'Unica One', cursive;
-    centre;
-    font-size: 50px
-}
+  }
+      h1 {
+        font-family: 'Unica One', cursive;
+          centre;
+            font-size: 30px}
 .center {
-  display: inline-block;
-    margin-left: 40%;
-    margin--right: 50%;
+  display: block;
+    margin-left: auto;
+      margin--right: auto;
 }
-p {font-family: 'Unica One', serif;
-}
+  p {font-family: 'Unica One', serif;
+    }
 p {text-align: center;
-}
+    }
+
 img {
     opacity: 1; /* Change this to .5 for 50% opacity */
     -webkit-transition: .5s;
@@ -31,19 +31,17 @@ img:hover {
     opacity: 0.5;
 }
 
-
 </style>
 </head>
 <body>
 
-<br>
 <h1> ━━━━━ </h1>
 <h1>THE DRINKS CUBBARD </h1>
 <h1>  ━━━━━ </h1>
-</br>
 
-<a href="happy hours" target="_blank"><img src="http://i67.tinypic.com/27zdxeb.jpg" border="0" alt="Image and video hosting by TinyPic" "width="300" height="300" class="center"></a> <a href="About page" target="_blank"><img src="http://i68.tinypic.com/1zg6j5w.jpg" border="0" alt="Image and video hosting by TinyPic" "width="300" height="300" class= "center"></a>
-<a href="Recipes" target="_blank"><img src="http://i63.tinypic.com/1z6fkud.jpg" border="0" alt="Image and video hosting by TinyPic" "width="300" height="300" class= "center"></a>
+<a href="happy hours" target="_blank"><img src="http://i67.tinypic.com/27zdxeb.jpg" border="0" alt="Image and video hosting by TinyPic" "width="310" height="310" class=".center" hspace="85"></a>
+<a href="About page" target="_blank"><img src="http://i68.tinypic.com/1zg6j5w.jpg" border="0" alt="Image and video hosting by TinyPic" "width="310" height="310" class= ".center" hspace="85"></a>
+<a href="Recipes" target="_blank"><img src="http://i63.tinypic.com/1z6fkud.jpg" border="0" alt="Image and video hosting by TinyPic" "width="310" height="310" class= ".center" padding: hspace="85"></a>
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
 <p> the number two website for cocktails </p>
 <p> Drink Responsibly </p>
