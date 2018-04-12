@@ -90,6 +90,10 @@ p {text-align: center;}
     <img border="0" alt="Mojito" img src="Mojito.jpg" width="250" height="300" class= center >
     <h3> Mojito </h3>
 
+    <a href="Gin Fizz">
+    <img border="0" alt="Gin Fizz" img src="Gin Fizz.jpg" width="250" height="300" class= center >
+    <h3> Gin Fizz </h3>
+
 
 </body>
 </html>
