@@ -73,7 +73,7 @@ p {text-align: center;}
 </br>
 
 <h2>Dark and Stormy</h2>
-<img src="dark and stormy.jpeg" height=200 width=200 align= "middle">
+<img src="dark and stormy.jpeg" height=200 width=150 class="center">
 <h3> Izzi's all time favourite cocktail. Like Ever. </h3>
 <h2> Ingredients</h2>
 <h3> 50 ml of dark rum </h3>
