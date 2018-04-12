@@ -106,6 +106,10 @@ tr:nth-child(even) {
   <img border="0" alt="rhubarb and custard cocktail" img src="rhubarb vodka.png" width="250" height="250" class= center >
   <h3> Rhubarb Vodka </h3
 
+    <a href="Margarita">
+    <img border="0" alt="Margarita" img src="Margarita.jpg" width="250" height="250" class= center >
+    <h3> Margarita </h3
+
 </body>
 </html>
 <link href="https://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet">
