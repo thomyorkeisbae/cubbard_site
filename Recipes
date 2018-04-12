@@ -104,11 +104,11 @@ tr:nth-child(even) {
 <body>
   <a href="rhubarb and custard">
   <img border="0" alt="rhubarb and custard cocktail" img src="rhubarb vodka.png" width="250" height="250" class= center >
-  <h3> Rhubarb Vodka </h3
+  <h3> Rhubarb Vodka </h3>
 
     <a href="Margarita">
     <img border="0" alt="Margarita" img src="Margarita.jpg" width="250" height="250" class= center >
-    <h3> Margarita </h3
+    <h3> Margarita </h3>
 
 </body>
 </html>
